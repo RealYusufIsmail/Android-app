@@ -1,2 +1,2 @@
-# java-watch-face
- A face for watch created in java
+# Android-app
+ An app created in Java.
