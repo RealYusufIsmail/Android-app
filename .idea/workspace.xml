@@ -22,11 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="70b4c137-c1eb-49ac-959d-9c0027f0224a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-    </list>
+    <list default="true" id="70b4c137-c1eb-49ac-959d-9c0027f0224a" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,7 +43,7 @@
     <property name="project.structure.last.edited" value="Dependencies" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="http.certificates" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="PsdUISettings">
     <option name="LAST_EDITED_BUILD_TYPE" value="release" />
@@ -81,10 +77,10 @@
     </state>
     <state x="243" y="25" key="#PSD/0.0.1280.800@0.0.1280.800" timestamp="1624300711885" />
     <state x="243" y="25" key="#PSD/0.25.1280.730@0.25.1280.730" timestamp="1624300289071" />
-    <state x="295" y="25" key="SettingsEditor" timestamp="1624302695292">
+    <state x="295" y="25" key="SettingsEditor" timestamp="1624303532842">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="295" y="25" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1624302695292" />
+    <state x="295" y="25" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1624303532842" />
     <state x="305" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1624300677233">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
